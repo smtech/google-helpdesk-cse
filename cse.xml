@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomSearchEngine id="qcaxdp4ctnq" creator="013618713992631349459" language="en" visible="false" encoding="UTF-8" enable_suggest="true">
   <Title>St. Mark&#x2019;s Expanded Knowledgebase</Title>
-  <Description>Search the St. Mark&#x2019;s Help Desk and other releted knowledgebase sites for help.</Description>
+  <Description>Search the St. Mark&#x2019;s Help Desk and other related knowledge base sites for help.</Description>
   <Context>
     <BackgroundLabels>
       <Label name="_cse_boost_qcaxdp4ctnq" mode="BOOST" weight="1.0"/>
