@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Annotations start="0" num="5" total="5">
+  <Annotation about="community.canvaslms.com/community/answers*" timestamp="0x000519d2ffadc0dc" href="Cipjb21tdW5pdHkuY2FudmFzbG1zLmNvbS9jb21tdW5pdHkvYW5zd2VycyoQ3IG3_a-6xgI">
+    <Label name="_cse_qcaxdp4ctnq"/>
+    <AdditionalData attribute="original_url" value="community.canvaslms.com/community/answers"/>
+  </Annotation>
+  <Annotation about="support.microsoft.com/*" score="1" timestamp="0x000519d2f31d0dd6" href="ChdzdXBwb3J0Lm1pY3Jvc29mdC5jb20vKhDWm_SYr7rGAg">
+    <Label name="_cse_qcaxdp4ctnq"/>
+    <AdditionalData attribute="original_url" value="support.microsoft.com"/>
+  </Annotation>
+  <Annotation about="support.google.com/*" score="1" timestamp="0x000519d2f31d0dbd" href="ChRzdXBwb3J0Lmdvb2dsZS5jb20vKhC9m_SYr7rGAg">
+    <Label name="_cse_qcaxdp4ctnq"/>
+    <AdditionalData attribute="original_url" value="support.google.com"/>
+  </Annotation>
+  <Annotation about="www.apple.com/support*" score="1" timestamp="0x000519d2f31d0daf" href="ChZ3d3cuYXBwbGUuY29tL3N1cHBvcnQqEK-b9JivusYC">
+    <Label name="_cse_qcaxdp4ctnq"/>
+    <AdditionalData attribute="original_url" value="www.apple.com/support"/>
+  </Annotation>
+  <Annotation about="helpdesk.stmarksschool.org/*" score="1" timestamp="0x000519d2f31d0d84" href="ChxoZWxwZGVzay5zdG1hcmtzc2Nob29sLm9yZy8qEISb9JivusYC">
+    <Label name="_cse_qcaxdp4ctnq"/>
+    <AdditionalData attribute="original_url" value="helpdesk.stmarksschool.org"/>
+  </Annotation>
+</Annotations>
