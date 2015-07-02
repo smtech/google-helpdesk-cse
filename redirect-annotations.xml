@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GoogleCustomizations>
-  <Include type="Annotations" href="http://helpdesk.stmarksschool.org/google-helpdesk-cse-annotations.xml" />
+  <Include type="Annotations" href="http://helpdesk.stmarksschool.org/annotations.xml" />
 </GoogleCustomizations>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Annotations start="0" num="5" total="5">
+	<Annotation about="community.canvaslms.com/docs/*" score="0.3">
+		<Label name="_cse_qcaxdp4ctnq"/>
+		<Comment>Canvas Guides</Comment>
+	</Annotation>
+	<Annotation about="support.microsoft.com/*" score="0.1">
+		<Label name="_cse_qcaxdp4ctnq"/>
+	</Annotation>
+	<Annotation about="support.google.com/*" score="0.2">
+		<Label name="_cse_qcaxdp4ctnq"/>
+	</Annotation>
+	<Annotation about="www.apple.com/support*" score="0.2">
+		<Label name="_cse_qcaxdp4ctnq"/>
+	</Annotation>
+	<Annotation about="helpdesk.stmarksschool.org/blog/*" score="1">
+		<Label name="_cse_boost_qcaxdp4ctnq"/>
+		<Label name="_cse_qcaxdp4ctnq"/>
+	</Annotation>
+	<Annotation about="helpdesk.stmarksschool.org/*/page/*">
+		<Label name="_cse_exclude_qcaxdp4ctnq"/>
+	</Annotation>
+</Annotations>
