@@ -1,23 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Annotations start="0" num="5" total="5">
-	<Annotation about="community.canvaslms.com/docs/*" score="0.3">
-		<Label name="_cse_qcaxdp4ctnq"/>
-		<Comment>Canvas Guides</Comment>
-	</Annotation>
-	<Annotation about="support.microsoft.com/*" score="0.1">
-		<Label name="_cse_qcaxdp4ctnq"/>
-	</Annotation>
-	<Annotation about="support.google.com/*" score="0.2">
-		<Label name="_cse_qcaxdp4ctnq"/>
-	</Annotation>
-	<Annotation about="www.apple.com/support*" score="0.2">
-		<Label name="_cse_qcaxdp4ctnq"/>
-	</Annotation>
-	<Annotation about="helpdesk.stmarksschool.org/blog/*" score="1">
-		<Label name="_cse_boost_qcaxdp4ctnq"/>
-		<Label name="_cse_qcaxdp4ctnq"/>
-	</Annotation>
-	<Annotation about="helpdesk.stmarksschool.org/*/page/*">
-		<Label name="_cse_exclude_qcaxdp4ctnq"/>
-	</Annotation>
+<?xml version="1.0" encoding="UTF-8" ?>
+<Annotations start="0" num="17" total="17">
+  <Annotation about="help.apple.com/imovie/*" timestamp="0x00051a623ee4c2dc" href="ChdoZWxwLmFwcGxlLmNvbS9pbW92aWUvKhDchZP3o8zGAg">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="desktop_apps" />
+    <AdditionalData attribute="original_url" value="help.apple.com/imovie/*" />
+  </Annotation>
+  <Annotation about="help.apple.com/garageband/*" timestamp="0x00051a623d34a10e" href="ChtoZWxwLmFwcGxlLmNvbS9nYXJhZ2ViYW5kLyoQjsLS6aPMxgI">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="desktop_apps" />
+    <AdditionalData attribute="original_url" value="help.apple.com/garageband/*" />
+  </Annotation>
+  <Annotation about="manual.audacityteam.org/*" timestamp="0x00051a623430a8cd" href="ChltYW51YWwuYXVkYWNpdHl0ZWFtLm9yZy8qEM3RwqGjzMYC">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="desktop_apps" />
+    <AdditionalData attribute="original_url" value="manual.audacityteam.org/*" />
+  </Annotation>
+  <Annotation about="windows.microsoft.com/*movie-maker*" timestamp="0x00051a622e1ca33f" href="CiN3aW5kb3dzLm1pY3Jvc29mdC5jb20vKm1vdmllLW1ha2VyKhC_xvLwoszGAg">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="desktop_apps" />
+    <AdditionalData attribute="original_url" value="windows.microsoft.com/*movie-maker*" />
+  </Annotation>
+  <Annotation about="support.office.com/*" timestamp="0x00051a6227fda5e9" href="ChRzdXBwb3J0Lm9mZmljZS5jb20vKhDpy_a_oszGAg">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="desktop_apps" />
+    <AdditionalData attribute="original_url" value="support.office.com/*" />
+  </Annotation>
+  <Annotation about="support.google.com/chrome/*" timestamp="0x00051a6224fb9ed6" href="ChtzdXBwb3J0Lmdvb2dsZS5jb20vY2hyb21lLyoQ1r3up6LMxgI">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="desktop_apps" />
+    <AdditionalData attribute="original_url" value="support.google.com/chrome/*" />
+  </Annotation>
+  <Annotation about="support.google.com/groups/*" timestamp="0x00051a62214c9855" href="ChtzdXBwb3J0Lmdvb2dsZS5jb20vZ3JvdXBzLyoQ1bCyiqLMxgI">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="google_apps" />
+    <AdditionalData attribute="original_url" value="support.google.com/groups/*" />
+  </Annotation>
+  <Annotation about="helpdesk.stmarksschool.org/blog/author/*" timestamp="0x00051a62192f0ea6" href="CihoZWxwZGVzay5zdG1hcmtzc2Nob29sLm9yZy9ibG9nL2F1dGhvci8qEKadvMmhzMYC">
+    <Label name="_cse_exclude_ah9dvix4vsm" />
+    <AdditionalData attribute="original_url" value="helpdesk.stmarksschool.org/blog/author/*" />
+  </Annotation>
+  <Annotation about="sites.google.com/a/stmarksschool.org/st-marks-school-gapps-learning-center/*" timestamp="0x00051a62119d2ef6" href="CkxzaXRlcy5nb29nbGUuY29tL2Evc3RtYXJrc3NjaG9vbC5vcmcvc3QtbWFya3Mtc2Nob29sLWdhcHBzLWxlYXJuaW5nLWNlbnRlci8qEPbd9IyhzMYC">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="google_apps" />
+    <Label name="st._mark_s_help_desk" />
+    <AdditionalData attribute="original_url" value="sites.google.com/a/stmarksschool.org/st-marks-school-gapps-learning-center/*" />
+  </Annotation>
+  <Annotation about="helpdesk.stmarksschool.org/blog/*" timestamp="0x00051a620eed092e" href="CiFoZWxwZGVzay5zdG1hcmtzc2Nob29sLm9yZy9ibG9nLyoQrpK096DMxgI">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="st._mark_s_help_desk" />
+    <AdditionalData attribute="original_url" value="helpdesk.stmarksschool.org/blog/*" />
+  </Annotation>
+  <Annotation about="community.canvaslms.com/docs/*" timestamp="0x00051a620e104fc6" href="Ch5jb21tdW5pdHkuY2FudmFzbG1zLmNvbS9kb2NzLyoQxp_B8KDMxgI">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="canvas_guides" />
+    <AdditionalData attribute="original_url" value="community.canvaslms.com/docs/*" />
+  </Annotation>
+  <Annotation about="support.google.com/calendar/*" timestamp="0x00051a620d05a977" href="Ch1zdXBwb3J0Lmdvb2dsZS5jb20vY2FsZW5kYXIvKhD30pbooMzGAg">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="google_apps" />
+    <AdditionalData attribute="original_url" value="support.google.com/calendar/*" />
+  </Annotation>
+  <Annotation about="support.google.com/youtube/*" timestamp="0x00051a620bbe9bd8" href="ChxzdXBwb3J0Lmdvb2dsZS5jb20veW91dHViZS8qENi3-t2gzMYC">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="google_apps" />
+    <AdditionalData attribute="original_url" value="support.google.com/youtube/*" />
+  </Annotation>
+  <Annotation about="support.google.com/docs/*" timestamp="0x00051a620a84825a" href="ChlzdXBwb3J0Lmdvb2dsZS5jb20vZG9jcy8qENqEktSgzMYC">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="google_apps" />
+    <AdditionalData attribute="original_url" value="support.google.com/docs/*" />
+  </Annotation>
+  <Annotation about="support.google.com/mail/*" timestamp="0x00051a620917a0aa" href="ChlzdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC8qEKrB3sigzMYC">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="google_apps" />
+    <AdditionalData attribute="original_url" value="support.google.com/mail/*" />
+  </Annotation>
+  <Annotation about="support.google.com/drive/*" timestamp="0x00051a62081341cd" href="ChpzdXBwb3J0Lmdvb2dsZS5jb20vZHJpdmUvKhDNg83AoMzGAg">
+    <Label name="_cse_ah9dvix4vsm" />
+    <Label name="google_apps" />
+    <AdditionalData attribute="original_url" value="support.google.com/drive/*" />
+  </Annotation>
+  <Annotation about="helpdesk.stmarksschool.org/blog/audience/*" timestamp="0x00051a61cb67e956" href="CipoZWxwZGVzay5zdG1hcmtzc2Nob29sLm9yZy9ibG9nL2F1ZGllbmNlLyoQ1tKf25zMxgI">
+    <Label name="_cse_exclude_ah9dvix4vsm" />
+    <AdditionalData attribute="original_url" value="helpdesk.stmarksschool.org/blog/audience/*" />
+  </Annotation>
 </Annotations>
